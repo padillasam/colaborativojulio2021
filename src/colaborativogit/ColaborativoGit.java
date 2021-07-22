@@ -17,6 +17,7 @@ public class ColaborativoGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Git");
+        System.out.println("imprimo en fedora");
     }
     
 }
